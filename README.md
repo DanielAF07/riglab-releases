@@ -1,7 +1,18 @@
-# RigLab
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/riglab-wordmark-on-dark.svg">
+    <img src="assets/riglab-wordmark-on-light.svg" alt="RigLab" width="360">
+  </picture>
+</p>
 
-Procesador de efectos para guitarra: pedales, amplis (incluidas capturas
-[NAM](https://www.tone3000.com)), gabinetes con IRs, looper y modo pedalera.
+<p align="center">
+  Procesador de efectos para guitarra: pedales, amplis (incluidas capturas
+  <a href="https://www.tone3000.com">NAM</a>), gabinetes con IRs, looper y modo pedalera.
+</p>
+
+<p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/DanielAF07/riglab-releases?label=descargar&color=007CFF&style=for-the-badge" alt="Descargar la última versión"></a>
+</p>
 
 Este repositorio solo publica las versiones compiladas. Descárgalas en
 **[Releases](../../releases/latest)**.
